@@ -1,2 +1,10 @@
 todo-db
 .idea/
+todo-db/base/16384/pg_internal.init
+todo-db/global/pg_control
+todo-db/global/pg_internal.init
+todo-db/pg_stat/db_0.stat
+todo-db/pg_stat/db_13117.stat
+todo-db/pg_stat/db_16384.stat
+todo-db/pg_stat/global.stat
+todo-db/pg_wal/000000010000000000000001
