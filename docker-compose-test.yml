@@ -1,8 +1,6 @@
 services:
   todo-db:
     image: diamol/postgres:11.5
-    ports:
-      - "5433:5432"
     volumes:
         - todo-db:/var/lib/postgresql/data
     environment:
